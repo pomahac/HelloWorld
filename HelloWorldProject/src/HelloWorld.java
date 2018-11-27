@@ -8,3 +8,4 @@ public class HelloWorld {
 		// das ist ein einzeiliger Kommentar
 	}
 } 
+System.out.println("hallo klasse");
