@@ -47,6 +47,24 @@ public class variable {
 		System.out.println(longVar);
 		//
 		System.out.println(System.currentTimeMillis());
+		//
+		//
+		//
+		float floatVar;
+		floatVar = 10/3f; // 10/ 3.0
+		System.out.println (floatVar);
+		System.out.println (float.MIN_VALUE);
+		System.out.println (float.MAX_VALUE);
+		//
+		double doubleVar;
+		doubleVar = 10/3f // 10/3.0
+		System.out.println(Double:"")
+		System.out.print
+		
+				
+				
+				
+		
 
 	}
 }
